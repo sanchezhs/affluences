@@ -1,0 +1,1 @@
+class ErrorDatos(Exception): pass

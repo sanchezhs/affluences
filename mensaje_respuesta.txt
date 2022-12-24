@@ -1,0 +1,1 @@
+{"error":"already_have_reservation","errorMessage":"Ya tiene una reserva en curso para este horario","showMessage":true}
